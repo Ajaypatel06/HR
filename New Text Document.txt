@@ -1,0 +1,15 @@
+This project uses a synthetic HR dataset created by Dr. Carla Patalano to teach HR professionals how to work with data and analytics. The dataset revolves around a fictitious company and includes various attributes like employee names, performance scores, salaries, positions, absences, and more. The main goal is to explore HR-related metrics and gain insights using tools such as Tableau, Python, and SQL.
+
+Tools Used:
+
+Tableau: For data visualization and building interactive dashboards.
+Python (Pandas, Seaborn): For data cleaning, manipulation, and exploratory data analysis (EDA).
+SQL: To query, filter, and analyze the data.
+
+Key Insights:
+
+Employee Performance & Management: A correlation was found between manager names and employee performance scores, indicating that certain managers consistently lead higher-performing teams.
+Diversity Profile: The dataset reveals a well-distributed diversity profile, allowing the company to maintain inclusivity across departments.
+Recruitment Analysis: The top recruiting sources were identified based on diversity metrics and performance outcomes.
+Attrition Prediction: Initial models showed potential for predicting employee terminations with high accuracy, helping HR focus retention efforts.
+Pay Equity: Some disparities in pay were identified across departments, pointing toward areas for compensation review.
